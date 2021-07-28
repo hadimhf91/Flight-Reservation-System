@@ -1,0 +1,19 @@
+Search a flight :
+- To Search for the Flight as a Customer, the customer have to choose the source, destination, date of flight, class of the flight and also one-way or two-way ticket, which are all the boxes in the top part of the Book Form.
+-Click on the Search button on the left side to see the result.
+
+Book a flight :
+- In order to book a specific flight, the customer should click on desired flight, and the click on Book button. If the customer do all the instructions correctly will see “Your Flight is Booked”.The booked ticket is also shown in bottom data grid at the same time.
+ 
+View History :
+- In this form , you can see all his or her history of booked and cancelled tickets by clicking on History button.
+
+Edit personal information :
+- In this form you also have an access to his or her personal information that entered in Customer Register Form during registration. By clicking on History button.
+
+Cancel a tcket :
+- In ths form you can cancel a booked flight by selecting the flight among flight history in bottom data grid, and then click on Cancel button.
+
+Print a ticket as a pdf :
+- in this form can save your ticket as a pdf file by clicking on Print button.
+

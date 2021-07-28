@@ -1,0 +1,19 @@
+Add Flight :
+- To add new flights, you have to fill all the boxes in the top part of the Admin Panel Form 
+  then click on the Add Flight button on the left side.
+- Price and Capacity are only allowed to be numerical characters.
+- All the fields should be field.
+- Flight ID must be identical, meaning that you can not add two flights with the same 
+  Flight ID.
+
+Search Flight :
+- In order to search for the flights as an admin, you have to fill the boxes “from” and “to” and choose your desired class in the “Add Flight Information” part and then click on the “Search Flight” button in the middle of the Admin Panel Form.
+
+Edit Flight :
+- To edit flight information, you need to search that flight as explained in the previous section and then select it from the window. Then, you can enter that flight’s updated information and then click on “Edit Flight” button.
+
+Add new admin :
+- To add a new admin, you can fill out the new admin’s username and password in the related boxes on the bottom of the Admin Panel Form and then click on the “Add New Admin” button.
+
+Edit admin login information :
+- To edit your admin login information, you need to click on “Edit Admin Info” button. Then a new form will show up that asks you to enter your current password, new password and confirmation of the new password. Once you fill all these blanks and click on “save”, your password will be changed to a new password.

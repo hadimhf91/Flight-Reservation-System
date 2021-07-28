@@ -1,0 +1,6 @@
+Edit personal Information :
+- In this form you can edit your personal information. After edit your information you have to put your old password.
+
+- Please note that if you want to change your password too you have to fill your old password in old password text box and fill new password and confirm new password with new one.
+
+- Press the save button to applu changes.

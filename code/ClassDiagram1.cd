@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Flight_Reservation_System.Admin_Login_Form" Collapsed="true">
+    <Position X="10.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAgICAAAQAIAACAAAACAEAABAABAAAAAAACAAA=</HashCode>
+      <FileName>Admin_Login_Form.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Flight_Reservation_System.Admin_Panel_Form" Collapsed="true">
+    <Position X="8.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQqAAAAk4CFQAQAAAACMCAAigMAgADABACAEAAQAIBA=</HashCode>
+      <FileName>Admin_Panel_Form.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Flight_Reservation_System.Customer_Login_Form" Collapsed="true">
+    <Position X="8.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACUAAgACAAAUAAAACAAAACAEAAAAABAAAAAAAgAAA=</HashCode>
+      <FileName>Customer_Login_Form.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Flight_Reservation_System.Customer_Register_Form" Collapsed="true">
+    <Position X="10.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CIAhCgiAACAAAAAAAACAEEACABACAgBAAAQQAAAAQAY=</HashCode>
+      <FileName>Customer_Register_Form.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Flight_Reservation_System.Flight">
+    <Position X="6" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAQAAAAAAAAAgCACAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>Flight.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Flight_Reservation_System.Flight_Search_Form" Collapsed="true">
+    <Position X="8.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQgCAAiEACAQAIAAAACAAAACABAAACAAEAAQQAAANIA=</HashCode>
+      <FileName>Flight_Search_Form.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Flight_Reservation_System.Main_Login_Form" Collapsed="true">
+    <Position X="8.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAgSIABACAAAACAAAAEAAAAEAAAA=</HashCode>
+      <FileName>Main_Login_Form.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Flight_Reservation_System.Program" Collapsed="true">
+    <Position X="10.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Flight_Reservation_System.User" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAA=</HashCode>
+      <FileName>User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Flight_Reservation_System.Guest">
+    <Position X="2.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Flight_Reservation_System.Properties.Resources" Collapsed="true">
+    <Position X="8.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Flight_Reservation_System.Properties.Settings" Collapsed="true">
+    <Position X="10.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Flight_Reservation_System.Customer">
+    <Position X="0.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAEAAACAAAAAAAAAAQAQAAAAAAAACAUAAABAAAAg=</HashCode>
+      <FileName>User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Flight_Reservation_System.Admin">
+    <Position X="4" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAEAAAAACAAAAAAAAAAAAAAAAAAAAACAQAABAAAACA=</HashCode>
+      <FileName>User.cs</FileName>
+      <NewMemberFileName>Admin.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
